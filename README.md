@@ -46,10 +46,3 @@ On the frontend at `http://localhost:3000/`, you can:
 - Search books by title or author dynamically
 - Edit or delete existing books
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to contribute and open issues or pull requests.
